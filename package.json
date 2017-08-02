@@ -1,0 +1,19 @@
+{
+  "name": "agenda_try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^0.9.1",
+    "agendash": "^0.4.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "nodemailer": "^4.0.1"
+  }
+}
